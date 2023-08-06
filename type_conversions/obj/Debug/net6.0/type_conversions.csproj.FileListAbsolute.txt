@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/bin/Debug/net6.0/type_conversions
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/bin/Debug/net6.0/type_conversions.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/bin/Debug/net6.0/type_conversions.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/bin/Debug/net6.0/type_conversions.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/bin/Debug/net6.0/type_conversions.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/refint/type_conversions.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/type_conversions.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/type_conversions/obj/Debug/net6.0/ref/type_conversions.dll
