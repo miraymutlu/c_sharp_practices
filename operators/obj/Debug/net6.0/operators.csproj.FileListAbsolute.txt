@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/bin/Debug/net6.0/operators
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/bin/Debug/net6.0/operators.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/bin/Debug/net6.0/operators.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/bin/Debug/net6.0/operators.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/bin/Debug/net6.0/operators.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/refint/operators.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/operators.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/operators/obj/Debug/net6.0/ref/operators.dll
