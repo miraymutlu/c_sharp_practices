@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/bin/Debug/net6.0/exception_handling
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/bin/Debug/net6.0/exception_handling.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/bin/Debug/net6.0/exception_handling.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/bin/Debug/net6.0/exception_handling.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/bin/Debug/net6.0/exception_handling.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/refint/exception_handling.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/exception_handling.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/exception_handling/obj/Debug/net6.0/ref/exception_handling.dll
