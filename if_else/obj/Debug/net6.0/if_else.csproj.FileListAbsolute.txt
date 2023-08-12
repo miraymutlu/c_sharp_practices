@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/bin/Debug/net6.0/if_else
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/bin/Debug/net6.0/if_else.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/bin/Debug/net6.0/if_else.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/bin/Debug/net6.0/if_else.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/bin/Debug/net6.0/if_else.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/refint/if_else.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/if_else.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/if_else/obj/Debug/net6.0/ref/if_else.dll
