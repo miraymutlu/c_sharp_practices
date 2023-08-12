@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/bin/Debug/net6.0/switch_case
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/bin/Debug/net6.0/switch_case.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/bin/Debug/net6.0/switch_case.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/bin/Debug/net6.0/switch_case.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/bin/Debug/net6.0/switch_case.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/refint/switch_case.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/switch_case.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/switch_case/obj/Debug/net6.0/ref/switch_case.dll
