@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/bin/Debug/net6.0/methods
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/bin/Debug/net6.0/methods.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/bin/Debug/net6.0/methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/bin/Debug/net6.0/methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/refint/methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/methods/obj/Debug/net6.0/ref/methods.dll
