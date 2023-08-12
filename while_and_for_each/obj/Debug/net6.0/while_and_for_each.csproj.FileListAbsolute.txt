@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/bin/Debug/net6.0/while_and_for_each
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/bin/Debug/net6.0/while_and_for_each.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/bin/Debug/net6.0/while_and_for_each.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/bin/Debug/net6.0/while_and_for_each.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/bin/Debug/net6.0/while_and_for_each.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/refint/while_and_for_each.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/while_and_for_each.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/while_and_for_each/obj/Debug/net6.0/ref/while_and_for_each.dll
