@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/bin/Debug/net6.0/array_methods
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/bin/Debug/net6.0/array_methods.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/bin/Debug/net6.0/array_methods.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/bin/Debug/net6.0/array_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/bin/Debug/net6.0/array_methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/refint/array_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/array_methods.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/array_methods/obj/Debug/net6.0/ref/array_methods.dll
