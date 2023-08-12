@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/bin/Debug/net6.0/for_loops
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/bin/Debug/net6.0/for_loops.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/bin/Debug/net6.0/for_loops.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/bin/Debug/net6.0/for_loops.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/bin/Debug/net6.0/for_loops.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/refint/for_loops.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/for_loops.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/for_loops/obj/Debug/net6.0/ref/for_loops.dll
