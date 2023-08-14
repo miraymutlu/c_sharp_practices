@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/bin/Debug/net6.0/arraylists
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/bin/Debug/net6.0/arraylists.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/bin/Debug/net6.0/arraylists.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/bin/Debug/net6.0/arraylists.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/bin/Debug/net6.0/arraylists.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/refint/arraylists.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/arraylists.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/arraylists/obj/Debug/net6.0/ref/arraylists.dll
