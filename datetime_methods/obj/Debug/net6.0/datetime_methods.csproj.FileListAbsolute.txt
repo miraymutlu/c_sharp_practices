@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/bin/Debug/net6.0/datetime_methods
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/bin/Debug/net6.0/datetime_methods.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/bin/Debug/net6.0/datetime_methods.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/bin/Debug/net6.0/datetime_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/bin/Debug/net6.0/datetime_methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/refint/datetime_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/datetime_methods.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/datetime_methods/obj/Debug/net6.0/ref/datetime_methods.dll
