@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/bin/Debug/net6.0/recursive_and_extension_methods
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/bin/Debug/net6.0/recursive_and_extension_methods.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/bin/Debug/net6.0/recursive_and_extension_methods.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/bin/Debug/net6.0/recursive_and_extension_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/bin/Debug/net6.0/recursive_and_extension_methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/refint/recursive_and_extension_methods.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/recursive_and_extension_methods.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/recursive_and_extension_methods/obj/Debug/net6.0/ref/recursive_and_extension_methods.dll
