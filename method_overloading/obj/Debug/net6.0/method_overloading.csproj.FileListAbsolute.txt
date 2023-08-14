@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/bin/Debug/net6.0/method_overloading
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/bin/Debug/net6.0/method_overloading.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/bin/Debug/net6.0/method_overloading.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/bin/Debug/net6.0/method_overloading.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/bin/Debug/net6.0/method_overloading.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/refint/method_overloading.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/method_overloading.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/method_overloading/obj/Debug/net6.0/ref/method_overloading.dll
