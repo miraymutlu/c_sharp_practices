@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/bin/Debug/net6.0/classes
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/bin/Debug/net6.0/classes.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/bin/Debug/net6.0/classes.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/bin/Debug/net6.0/classes.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/bin/Debug/net6.0/classes.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/refint/classes.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/classes.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/classes/obj/Debug/net6.0/ref/classes.dll
