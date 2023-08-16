@@ -15,5 +15,6 @@ class Program
 
         Console.WriteLine(avg1);
         Console.WriteLine(avg2);
+        Console.WriteLine(avg1+avg2);
     }
 }
