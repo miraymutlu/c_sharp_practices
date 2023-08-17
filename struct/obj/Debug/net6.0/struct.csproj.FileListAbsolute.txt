@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/bin/Debug/net6.0/struct
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/bin/Debug/net6.0/struct.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/bin/Debug/net6.0/struct.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/bin/Debug/net6.0/struct.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/bin/Debug/net6.0/struct.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/refint/struct.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/struct.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/struct/obj/Debug/net6.0/ref/struct.dll
