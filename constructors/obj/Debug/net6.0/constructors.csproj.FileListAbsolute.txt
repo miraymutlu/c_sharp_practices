@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/bin/Debug/net6.0/constructors
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/bin/Debug/net6.0/constructors.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/bin/Debug/net6.0/constructors.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/bin/Debug/net6.0/constructors.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/bin/Debug/net6.0/constructors.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/refint/constructors.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/constructors.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/constructors/obj/Debug/net6.0/ref/constructors.dll
