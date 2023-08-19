@@ -1,0 +1,15 @@
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/bin/Debug/net6.0/enum
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/bin/Debug/net6.0/enum.deps.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/bin/Debug/net6.0/enum.runtimeconfig.json
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/bin/Debug/net6.0/enum.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/bin/Debug/net6.0/enum.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.csproj.AssemblyReference.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.AssemblyInfoInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.AssemblyInfo.cs
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.csproj.CoreCompileInputs.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/refint/enum.dll
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.pdb
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/enum.genruntimeconfig.cache
+/Users/miraymutlu/Desktop/repos/c_sharp_practices/enum/obj/Debug/net6.0/ref/enum.dll
