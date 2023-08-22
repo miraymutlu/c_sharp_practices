@@ -3,8 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Creating and initializing an array of integers
-        int[] numbers = new int[5]; // Creating an array of size 5
+        int[] numbers = new int[5]; 
         numbers[0] = 10;
         numbers[1] = 20;
         numbers[2] = 30;
